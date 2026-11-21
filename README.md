@@ -1,16 +1,11 @@
-## Hi there 👋
+# Hi, I'm Mauricio 👋
+Mathematician (MSc ALGANT, Leiden–Padova) working at the intersection of
+**coding theory, cryptography and data science**.
 
-<!--
-**mauriciofrieri/mauriciofrieri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔐 Currently building: McEliece cryptosystem from scratch in SageMath
+- 📊 Applied ML: climate and dengue incidence in Cali (UAO)
+- 🛠️ Python · SageMath · R · SQL · Git
+- 🌎 Cali, Colombia · open to relocation
+- 📫 How to reach me: mauriciofrieri@gmail.com
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I am a passionate social dancer
